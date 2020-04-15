@@ -1,3 +1,6 @@
 .vscode/
 venv/
 */.ipynb_checkpoints/
+
+# Training Datasets
+*/Train*/
